@@ -1,0 +1,20 @@
+{
+  "name": "store-passwords",
+  "version": "1.0.0",
+  "description": "A CLI app to store passwords",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Abzal Slamkozha",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.3.0",
+    "conf": "^10.1.2"
+  },
+  "bin": {
+    "container": "index.js"
+  },
+  "devDependencies": {}
+}
